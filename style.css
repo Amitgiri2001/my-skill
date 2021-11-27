@@ -1,0 +1,129 @@
+body {
+  /*margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    */
+
+  text-align: center;
+  margin: 0px;
+}
+.first_container {
+  background-color: #8acaca;
+  padding: 20px;
+}
+
+.first_cloud {
+  position: relative;
+  left: 15%;
+
+  height: 120px;
+}
+.second_cloud {
+  height: 120px;
+  left: 20%;
+  position: absolute;
+}
+h1 {
+  color: #1b8888;
+  margin-top: 0px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 67px;
+  margin-bottom: 5px;
+}
+
+span {
+  text-decoration: underline;
+}
+.amit {
+  border-radius: 50%;
+  width: 150px;
+  height: 170px;
+}
+footer {
+  margin-top: 32px;
+  text-align: center;
+  background-color: #59b3b3;
+  padding-bottom: 20px;
+  padding-top: 40px;
+}
+.copy {
+  width: 40%;
+  font-size: 0.7rem;
+  font-weight: 100;
+  color: rgb(197, 204, 204);
+  margin: auto;
+  padding-top: 30px;
+}
+a {
+  padding-right: 50px;
+  text-decoration: none;
+  color: rgb(64, 106, 114);
+}
+a:hover {
+  color: blue;
+}
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  width: 15%;
+  border-width: 10px;
+}
+.skill {
+  width: 50%;
+  margin: auto;
+}
+.html {
+  padding-right: 30px;
+  width: 25%;
+  height: 25%;
+  float: left;
+}
+.css {
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+  padding-top: 30px;
+}
+h2 {
+  color: rgb(124, 70, 175);
+}
+p {
+  line-height: 1.7;
+  text-align: left;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.btn {
+  width: 16%;
+  color: #59b3b3;
+  height: 61 px;
+  border-radius: 15px;
+  font-size: 27px;
+  font-weight: 500;
+  border: 3 px solid #60e260;
+  background-color: rgb(38, 121, 189);
+}
+.btn:hover {
+  color: crimson;
+  background-color: rgba(39, 163, 147, 0.767);
+}
+.html_con {
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+.css_con {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.my_skill {
+  margin-bottom: 50px;
+}
+.code {
+  width: 20%;
+  height: 40%;
+
+  position: absolute;
+  right: 12px;
+  top: 1074 px;
+  margin-bottom: 400px;
+}
